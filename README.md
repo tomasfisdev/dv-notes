@@ -10,5 +10,5 @@ DvNotes es una aplicación web que permite al usuario crear, editar y eliminar n
 </p>
 
 <p align="center" width="100%">
-    <img width="100%" src="https://i.ibb.co/H48qHbh/image-6.png">
+    <img width="99%" src="https://i.ibb.co/H48qHbh/image-6.png">
 </p>
