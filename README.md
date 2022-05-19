@@ -4,3 +4,11 @@ DvNotes is a web app that allows the user to create, edit and delete notes, as w
 
 DvNotes es una aplicación web que permite al usuario crear, editar y eliminar notas, además de poder registrarse e iniciar sesión. Las tecnologías usadas en este proyecto son [React.js](https://reactjs.org/) en el frontend y una API creada con [Express.js](https://expressjs.com/) y [MongoDB](https://www.mongodb.com/) en el backend. El código de la API se encuentra en este repositorio: https://github.com/tomasfisdev/dv-notes-api.
 
+<p align="center" width="100%">
+    <img width="49%" src="https://i.ibb.co/nrNskyV/Group-2.png">
+    <img width="49%" src="https://i.ibb.co/yWJJvYX/image-5.png">
+</p>
+
+<p align="center" width="100%">
+    <img width="100%" src="https://i.ibb.co/H48qHbh/image-6.png">
+</p>
